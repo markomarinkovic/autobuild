@@ -6,3 +6,4 @@ MAINTAINER marko.marinkovic@sbgenomics.com
 ADD https://github.com/markomarinkovic/autobuildscript/raw/master/test.tar.gz /
 RUN tar -xvf test.tar.gz
 RUN ls -l
+WORKDIR /
