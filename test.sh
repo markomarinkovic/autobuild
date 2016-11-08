@@ -1,1 +1,1 @@
-This is version 2 of the test.sh file for autobuild.
+echo "This is message no. 1 from the shell"
